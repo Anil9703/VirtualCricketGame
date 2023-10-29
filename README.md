@@ -1,2 +1,2 @@
 # VirtualCricketGame
-this project is built usung c/c++ language
+this project is built using c/c++ language
